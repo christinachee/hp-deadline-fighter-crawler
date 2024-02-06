@@ -1,0 +1,7 @@
+/.DS_Store
+/.env.yaml
+/.venv
+/LICENSE
+/credentials.json
+/sandbox.py
+/token.pickle
